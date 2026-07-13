@@ -1,69 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=220&text=alma&fontSize=70&fontColor=ffffff&color=0:F8BBD0,50:C8A2C8,100:89CFF0"/>
+# ✦ ALMA ✦
 
-### *creating things with code & curiosity* ✿
+```
+INICIANDO SISTEMA...
+
+████████████████████ 100%
+
+Bienvenida/o al perfil de Alma.
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=Desarrolladora+Full+Stack;Creando+proyectos+que+resuelven+problemas;Aprendiendo+algo+nuevo+cada+día"/>
 
 </div>
 
-<br>
-
-```text
-╭─────────────────────────────────────────────╮
-│                                             │
-│   👋 hi, i'm alma                           │
-│                                             │
-│   i enjoy turning ideas into software.      │
-│   currently exploring full stack            │
-│   development, ui design and ai.            │
-│                                             │
-│   based in argentina 🇦🇷                     │
-│                                             │
-╰─────────────────────────────────────────────╯
-```
-
 ---
 
-### ✦ current mood
+# 🪐 Perfil
 
 ```yaml
-status: coding...
-music: lofi / indie / pop
-drink: coffee ☕
-learning:
-  - react
-  - next.js
-  - node.js
-  - docker
+nombre: Alma
+
+ubicación: Argentina 🇦🇷
+
+rol: Desarrolladora Full Stack
+
+estado_actual:
+  - Construyendo proyectos
+  - Aprendiendo IA
+  - Mejorando cada día
+
+filosofía:
+  "La práctica convierte las ideas en realidad."
 ```
 
 ---
 
-### ✦ toolbox
+# 📦 Tecnologías
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,mongodb,postgres,docker,git,github,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,mongodb,postgres,docker,git,github,vscode&theme=dark"/>
 
 </div>
 
 ---
 
+# 📈 Actividad
 
-### ✦ little reminder
+<div align="center">
 
-> **Every expert was once a beginner.**
->
-> Keep building. Keep failing. Keep learning.
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🖥 Consola
+
+```bash
+> whoami
+
+Alma
+
+> objetivo
+
+Crear aplicaciones útiles y con buen diseño.
+
+> stack
+
+React
+Next.js
+Node.js
+TypeScript
+Python
+
+> café
+
+☕☕☕☕☕
+```
 
 ---
 
 <div align="center">
 
-```
-♡ thanks for stopping by ♡
-```
+## Gracias por visitar mi perfil 💜
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:89CFF0,50:C8A2C8,100:F8BBD0"/>
+```
+╭──────────────────────────────╮
+│   El código también puede    │
+│      contar historias.       │
+╰──────────────────────────────╯
+```
 
 </div>
