@@ -49,17 +49,6 @@ learning:
 
 ---
 
-### ✦ github
-
-<div align="center">
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
 
 ### ✦ little reminder
 
