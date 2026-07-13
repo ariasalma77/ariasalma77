@@ -1,88 +1,76 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FF9BD2,40:CBA6F7,100:89DCEB&text=ALMA&fontColor=ffffff&fontSize=70&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=ALMA&fontSize=75&fontColor=ffffff&color=0:6C63FF,50:8B5CF6,100:EC4899"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=2000&color=F5C2E7&center=true&width=700&lines=💻+Bienvenido+a+mi+espacio+digital;🌸+Creando+ideas+con+código;☕+Siempre+aprendiendo+algo+nuevo"/>
+### Desarrolladora Full Stack
+
+<sub>Construyendo experiencias digitales con código y diseño.</sub>
 
 </div>
 
----
+<br>
 
-# 🏡 Mi rincón
+<table>
+<tr>
+<td width="50%">
 
-```text
-          🌙
-     ✦            ☁
+### Sobre mí
 
-        🪴      💻
-      📚☕🌸
-
-╭──────────────────────────────╮
-│ 👩 Nombre: Alma              │
-│ 📍 Argentina                 │
-│ 💜 Full Stack Developer      │
-│ 🌱 Aprendiendo IA            │
-│ 🎧 Música + Café + Código    │
-╰──────────────────────────────╯
+```txt
+Nombre      Alma
+Ubicación   Argentina
+Stack       React · Node · TS
+Intereses   IA · UI/UX · Backend
 ```
 
+</td>
+
+<td width="50%">
+
+### Actualmente
+
+```txt
+◉ Desarrollando proyectos
+◉ Aprendiendo nuevas tecnologías
+◉ Mejorando mis habilidades
+```
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🎨 Mi paleta
-
-🩷 Diseño bonito  
-💜 Código limpio  
-🩵 Aprendizaje constante  
-💙 Nuevos desafíos
-
----
-
-## 💻 Tecnologías
+## Tecnologías
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,mongodb,postgres,docker,git,github,vscode,figma&theme=light"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,postgres,mongodb,docker,git,github,figma,vscode" />
 </p>
 
 ---
 
-## 🌸 Actualmente
-
-```yaml
-✨ desarrollando:
-  - aplicaciones web
-  - interfaces modernas
-  - proyectos personales
-
-📖 aprendiendo:
-  - inteligencia artificial
-  - docker
-  - arquitectura de software
-
-☕ combustible:
-  café + playlists + curiosidad
-```
-
----
-
-## 📈 GitHub
+## Estadísticas
 
 <p align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=omni&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&show_icons=true&hide_border=true"/>
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=omni&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
+> *"No escribo código solo para que funcione; me gusta que también sea claro, mantenible y agradable de usar."*
+
 <div align="center">
 
-🌷 **Gracias por pasar por mi perfil.**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-*Espero que encuentres algo que te inspire.*
+Gracias por visitar mi perfil.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:89DCEB,50:CBA6F7,100:FF9BD2"/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
+
+
