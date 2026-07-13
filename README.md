@@ -84,18 +84,6 @@ VS Code
 **Tecnologías:** Next.js · TypeScript
 
 
----
-
-## ✦ Estadísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=transparent&title_color=E5B8FF&text_color=ffffff&icon_color=E5B8FF"/>
-
-</div>
-
-
----
 
 <div align="center">
 
