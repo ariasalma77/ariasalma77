@@ -1,69 +1,114 @@
 <div align="center">
 
-# Alma
+# ALMA
 
-### Full Stack Developer • Argentina
+### Software Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&pause=1500&color=E5B8FF&center=true&vCenter=true&width=600&lines=Code+%26+Creativity;Building+digital+experiences;Learning+something+new+every+day"/>
 
 <br>
 
-> *"Transformando ideas en experiencias digitales."*
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=20&color=9B87F5"/>
 
 </div>
 
----
 
-## 01 · Sobre mí
+## ✦ Hola, soy Alma
 
-Soy desarrolladora full stack con interés en crear aplicaciones funcionales y visualmente atractivas.
-
-Actualmente estoy profundizando en:
-
-- React & Next.js
-- Node.js
-- TypeScript
-- Inteligencia Artificial
-
----
-
-## 02 · Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,mongodb,postgres,docker,git,github,figma"/>
-
-</div>
-
----
-
-## 03 · GitHub
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-## 04 · Filosofía
+Soy una desarrolladora apasionada por crear productos digitales con una mezcla de:
 
 ```
-Diseñar.
-Construir.
-Aprender.
-Repetir.
+✦ código limpio
+✦ diseño cuidado
+✦ curiosidad constante
+✦ ganas de aprender
 ```
+
+Me gusta transformar ideas simples en experiencias digitales bonitas y funcionales.
+
+
+---
+
+## ✧ Mi universo tecnológico
+
+<table>
+<tr>
+<td>
+
+### Frontend
+
+React  
+Next.js  
+TypeScript  
+JavaScript  
+
+</td>
+
+<td>
+
+### Backend
+
+Node.js  
+Express  
+Python  
+
+</td>
+
+<td>
+
+### Tools
+
+Git  
+Docker  
+Figma  
+VS Code  
+
+</td>
+</tr>
+</table>
+
+
+---
+
+## ✦ Proyectos destacados
+
+### ◇ Proyecto 01
+> Una aplicación donde la idea se convierte en una experiencia.
+
+**Tecnologías:** React · Node · Database
+
+
+### ◇ Proyecto 02
+> Diseño, código y creatividad trabajando juntos.
+
+**Tecnologías:** Next.js · TypeScript
+
+
+---
+
+## ✦ Estadísticas
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=transparent&title_color=E5B8FF&text_color=ffffff&icon_color=E5B8FF"/>
+
+</div>
+
 
 ---
 
 <div align="center">
 
-**Gracias por visitar mi perfil.**
+### Encontrame en
+
+⌘ GitHub  
+⌘ LinkedIn  
+⌘ Portfolio
+
+
+<br>
+
+*"Crear es una forma de pensar."*
 
 </div>
-
 
