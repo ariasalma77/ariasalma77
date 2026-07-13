@@ -1,75 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=ALMA&fontSize=75&fontColor=ffffff&color=0:6C63FF,50:8B5CF6,100:EC4899"/>
+# Alma
 
-### Desarrolladora Full Stack
-
-<sub>Construyendo experiencias digitales con código y diseño.</sub>
-
-</div>
+### Full Stack Developer • Argentina
 
 <br>
 
-<table>
-<tr>
-<td width="50%">
+> *"Transformando ideas en experiencias digitales."*
 
-### Sobre mí
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30"/>
 
-```txt
-Nombre      Alma
-Ubicación   Argentina
-Stack       React · Node · TS
-Intereses   IA · UI/UX · Backend
-```
-
-</td>
-
-<td width="50%">
-
-### Actualmente
-
-```txt
-◉ Desarrollando proyectos
-◉ Aprendiendo nuevas tecnologías
-◉ Mejorando mis habilidades
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## Tecnologías
+## 01 · Sobre mí
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,postgres,mongodb,docker,git,github,figma,vscode" />
-</p>
+Soy desarrolladora full stack con interés en crear aplicaciones funcionales y visualmente atractivas.
 
----
+Actualmente estoy profundizando en:
 
-## Estadísticas
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&show_icons=true&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- React & Next.js
+- Node.js
+- TypeScript
+- Inteligencia Artificial
 
 ---
 
-> *"No escribo código solo para que funcione; me gusta que también sea claro, mantenible y agradable de usar."*
+## 02 · Stack
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,mongodb,postgres,docker,git,github,figma"/>
 
-Gracias por visitar mi perfil.
+</div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+## 03 · GitHub
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=github_dark&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 04 · Filosofía
+
+```
+Diseñar.
+Construir.
+Aprender.
+Repetir.
+```
+
+---
+
+<div align="center">
+
+**Gracias por visitar mi perfil.**
 
 </div>
 
